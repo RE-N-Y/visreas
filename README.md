@@ -1,5 +1,7 @@
 # VISREAS
 
+![teaser](https://huggingface.co/RE-N-Y/logic2vision/resolve/main/Code2Vision.png)
+
 Code for the paper [VISREAS: Complex Visual Reasoning with Unanswerable Questions](https://arxiv.org/abs/2403.10534) by Syeda Nahida Akter, Sangwu Lee, Yingshan Chang, Yonatan Bisk, Eric Nyberg. We release minimal code to train and evaluate LLaVA, BLIP2, InstructBLIP, and various VLM baselines on the VISREAS dataset.
 
 **Keep posted for more updates!**
