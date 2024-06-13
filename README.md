@@ -16,6 +16,7 @@ The model has been finetuned using LoRA to generate python pseudocode outputs to
 - [ ] Release VISREAS dataset on Huggingface Datasets.
 - [x] Release Logic2Vision on Huggingface Models.
 - [ ] Make code compatible with HF datasets library.
+- [ ] Add requirements and environment details.
 
 ## Citation
 
